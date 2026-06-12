@@ -1,6 +1,7 @@
 # KSE-100 ETF Creation Basket Builder
 
-> 📺 Please watch the YouTube video — you will find it helpful in understanding the code.
+> 📺 Please watch the YouTube video (14 minutes) — you will find it helpful in understanding the code.
+> https://youtu.be/FEQ4cX7v5pQ
 
 I thought to use Python to assist in my work, which I currently do using MS Excel. I believe having Python do it is more reliable, fast and scalable. So, here is the brief description.
 
